@@ -1,0 +1,8 @@
+{
+  "name": "flutter-ui-weapp",
+  "version": "0.0.1",
+  "description": "Flutter 布局思路的小程序 UI",
+  "main": "index.js",
+  "author": "renyujie <renyujie@meituan.com>",
+  "license": "MIT"
+}
